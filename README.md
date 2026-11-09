@@ -1,5 +1,11 @@
 # Основа вакансии
 
+**Онлайн:** https://voice-vacancy-basis.mxhhn4dwkx.chatgpt.site
+
+**Исходники:** https://github.com/AndreyPalyS/voice-vacancy
+
+Сайт открыт всем по ссылке, вход не нужен. Ключ Groq хранится как серверный секрет Sites и не передаётся в браузер.
+
 [Запуск и подключение AI](DEPLOYMENT.md) · [Спецификация](SPEC.md) · [Соответствие ТЗ](DELIVERY.md) · [Секреты и данные](SECURITY.md)
 
 ![Компактный интерфейс](artifacts/mobile.png)
