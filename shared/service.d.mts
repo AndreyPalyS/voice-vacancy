@@ -1,0 +1,1 @@
+export function handleApi(route: string, body: unknown, env?: Record<string, string | undefined>): Promise<{ vacancy?: string; source?: string; warning?: string; text?: string; assessments?: { questionId: number; score: number; sufficient: boolean; hint: string }[] }>
